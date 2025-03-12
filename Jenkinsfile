@@ -37,15 +37,4 @@ pipeline{
             }
         }
     }
-    post{ // will run after all the stages
-      always{ // will run always
-          
-      }  
-      success{
-          
-      }
-      failure{
-          
-      }
-    }
 }
